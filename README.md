@@ -9,14 +9,15 @@ Cada mensaje tiene las siguientes caracteristicas: Tienes que mostrar un mensaje
 
 El sistema debe contener: Un interfaz de hardware para navegar entre los mensajes. Una interfaz de software para enviar los mensajes desde la computadora via serial. La interfaz de software debe permitir agreagr mensajes y/o borrarlos.
 
-Materiales
-Arduino uno
-Protoboard
-Pantalla LCD
-Potenciometro
-Cables para puentear
-Sensor de temperatura DHT11
-Fotoresistencia
+* Materiales
+* Arduino uno
+* Protoboard
+* Pantalla LCD
+* Potenciometro
+* Cables para puentear
+* Sensor de temperatura DHT11
+* Fotoresistencia
 
 Autor
-Miguel Angel Reyes Solis.Juan Pablo Gallardo Ochoa. 
+* Miguel Angel Reyes Solis.
+* Juan Pablo Gallardo Ochoa. 
